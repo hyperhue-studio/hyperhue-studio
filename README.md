@@ -1,5 +1,5 @@
-# 💫 About Me:
-## ¡Hola! Soy Miguel Muñoz  <br>👨‍💻 **Ingeniero en Multimedia** y apasionado por la creación digital.  <br>🛠️ Desarrollo **apps móviles** (Flutter, React Native) y **proyectos web** (React, Next.js, Tailwind).  <br>🎮 Creo **videojuegos** con Unity (C#) y Unreal (C++/Blueprints) y me encanta la **realidad virtual**.  <br>🚀 Siempre probando nuevas tecnologías y buscando aprender más.<br><br>### ¿En qué ando?  <br>- **Colaboraciones** en proyectos creativos (VR, 3D, videojuegos, web).  <br>- Explorando **IA** y bases de datos vectoriales (Pinecone, Weaviate).  <br><br>### Fun Fact  <br>- He muerto **+30,000** veces en *Celeste* (y contando ☠️).  <br>
+# 💫 Sobre mí:
+## ¡Hola! Soy Miguel Muñoz  <br>👨‍💻 **Ingeniero en Multimedia**.  <br>🛠️ Desarrollo **apps móviles** (Flutter, React Native) y **proyectos web** (React, Next.js, Tailwind).  <br>🎮 Creo **videojuegos** con Unity (C#) y Unreal (C++/Blueprints) y me encanta la **realidad virtual**.  <br>🚀 Siempre probando nuevas tecnologías y buscando aprender más.<br><br>### ¿En qué ando?  <br>- **Colaboraciones** en proyectos creativos (VR, 3D, videojuegos, web).  <br>- Explorando **IA** y bases de datos vectoriales (Pinecone, Weaviate).  <br><br>### Fun Fact  <br>- He muerto **+30,000** veces en *Celeste* (y contando ☠️).  <br>
 
 
 ## 🌐 Socials:
